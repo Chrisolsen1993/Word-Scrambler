@@ -1,0 +1,14 @@
+.scrambled-word{
+    text-align: center;
+}
+html{
+    background-color: lightgray;
+}
+section{
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 0 auto;
+    width: 600px;
+    height: fit-content;
+}
